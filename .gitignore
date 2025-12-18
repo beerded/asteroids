@@ -12,3 +12,6 @@ wheels/
 # App-specific files
 game_state.jsonl
 game_events.jsonl
+
+# Misc vim/editing side_effects
+*.swp
